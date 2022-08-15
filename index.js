@@ -16,7 +16,6 @@ const io = new Server(server, {
 			"https://amritb.github.io/",
 			"https://waiting-list-client.herokuapp.com/",
 		],
-		credentials: true,
 	},
 });
 
