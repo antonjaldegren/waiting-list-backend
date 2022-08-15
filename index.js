@@ -14,6 +14,7 @@ const io = new Server(server, {
 			"https://admin.socket.io",
 			"http://localhost:3000",
 			"https://amritb.github.io/",
+			"https://waiting-list-client.herokuapp.com/",
 		],
 		credentials: true,
 	},
